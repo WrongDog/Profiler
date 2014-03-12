@@ -1,0 +1,13 @@
+c:\users\youy\documents\visual studio 2010\Projects\BenchmarkResult\BenchmarkResult\bin\Debug\BenchmarkResult.dll
+c:\users\youy\documents\visual studio 2010\Projects\BenchmarkResult\BenchmarkResult\bin\Debug\BenchmarkResult.pdb
+c:\users\youy\documents\visual studio 2010\Projects\BenchmarkResult\BenchmarkResult\obj\Debug\BenchmarkResult.dll
+c:\users\youy\documents\visual studio 2010\Projects\BenchmarkResult\BenchmarkResult\obj\Debug\BenchmarkResult.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResult\obj\Debug\BenchmarkResult.csprojResolveAssemblyReference.cache
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResult\bin\Debug\BenchmarkResult.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResult\bin\Debug\BenchmarkResult.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResult\bin\Debug\BenchmarkHandler.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResult\bin\Debug\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResult\bin\Debug\BenchmarkHandler.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResult\bin\Debug\TraceWrapper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResult\obj\Debug\BenchmarkResult.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResult\obj\Debug\BenchmarkResult.pdb

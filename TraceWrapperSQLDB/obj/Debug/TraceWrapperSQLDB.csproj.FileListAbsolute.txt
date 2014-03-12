@@ -1,0 +1,7 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSQLDB\obj\Debug\TraceWrapperSQLDB.csprojResolveAssemblyReference.cache
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSQLDB\bin\Debug\TraceWrapperSQLDB.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSQLDB\bin\Debug\TraceWrapperSQLDB.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSQLDB\bin\Debug\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSQLDB\bin\Debug\TraceWrapper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSQLDB\obj\Debug\TraceWrapperSQLDB.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSQLDB\obj\Debug\TraceWrapperSQLDB.pdb

@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="OperationWeight" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="OperationWeight">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Operation" type="xs:string" minOccurs="0" />
+                <xs:element name="Weight" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <OperationWeight>
+    <Operation>TableScan</Operation>
+    <Weight>1</Weight>
+  </OperationWeight>
+  <OperationWeight>
+    <Operation>ClusteredIndexScan</Operation>
+    <Weight>0.8</Weight>
+  </OperationWeight>
+  <OperationWeight>
+    <Operation>RIDLookup</Operation>
+    <Weight>0.5</Weight>
+  </OperationWeight>
+  <OperationWeight>
+    <Operation>HashJoin</Operation>
+    <Weight>1.2</Weight>
+  </OperationWeight>
+  <OperationWeight>
+    <Operation>Sort</Operation>
+    <Weight>0.3</Weight>
+  </OperationWeight>
+  <OperationWeight>
+    <Operation>KeyLookup</Operation>
+    <Weight>0.5</Weight>
+  </OperationWeight>
+  <OperationWeight>
+    <Operation>NestedLoops</Operation>
+    <Weight>0.7</Weight>
+  </OperationWeight>
+</NewDataSet>

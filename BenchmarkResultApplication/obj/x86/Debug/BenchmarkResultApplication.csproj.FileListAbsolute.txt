@@ -1,0 +1,13 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\obj\x86\Debug\BenchmarkResultApplication.csprojResolveAssemblyReference.cache
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\obj\x86\Debug\BenchmarkResultApplication.Form1.resources
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\obj\x86\Debug\BenchmarkResultApplication.Properties.Resources.resources
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\obj\x86\Debug\BenchmarkResultApplication.csproj.GenerateResource.Cache
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\bin\Debug\BenchmarkResultApplication.exe.config
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\bin\Debug\BenchmarkResultApplication.exe
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\bin\Debug\BenchmarkResultApplication.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\bin\Debug\DBengine.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\bin\Debug\ExcelHelper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\bin\Debug\DBengine.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\bin\Debug\ExcelHelper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\obj\x86\Debug\BenchmarkResultApplication.exe
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkResultApplication\obj\x86\Debug\BenchmarkResultApplication.pdb

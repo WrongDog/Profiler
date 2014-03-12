@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Script>
+
+
+  /****** Object:  Table [dbo].[StoredProcedure]    Script Date: 08/14/2013 12:27:43 ******/
+  IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[StoredProcedure]') AND type in (N'U'))
+  DROP TABLE [dbo].[StoredProcedure]
+  GO
+
+
+
+  /****** Object:  Table [dbo].[StoredProcedure]    Script Date: 08/14/2013 12:27:43 ******/
+  SET ANSI_NULLS ON
+  GO
+
+  SET QUOTED_IDENTIFIER ON
+  GO
+
+  SET ANSI_PADDING ON
+  GO
+
+  CREATE TABLE [dbo].[StoredProcedure](
+  [Object] [varchar](100) NOT NULL,
+  [Count] [int] NULL,
+  [EntryLineNumber] [int] NULL,
+  [FirstCaptureTime] [datetime] NOT NULL,
+  [LastCaptureTime] [datetime] NULL,
+  CONSTRAINT [PK_StoredProcedure] PRIMARY KEY CLUSTERED
+  (
+  [Object] ASC,
+  [FirstCaptureTime] ASC
+  )WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+  ) ON [PRIMARY]
+
+  GO
+
+  SET ANSI_PADDING OFF
+  GO
+
+
+
+
+  /****** Object:  Table [dbo].[Operation]    Script Date: 08/14/2013 12:27:57 ******/
+  IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Operation]') AND type in (N'U'))
+  DROP TABLE [dbo].[Operation]
+  GO
+
+
+
+  /****** Object:  Table [dbo].[Operation]    Script Date: 08/14/2013 12:27:57 ******/
+  SET ANSI_NULLS ON
+  GO
+
+  SET QUOTED_IDENTIFIER ON
+  GO
+
+  SET ANSI_PADDING ON
+  GO
+
+  CREATE TABLE [dbo].[Operation](
+  [Object] [varchar](100) NULL,
+  [Table] [varchar](50) NULL,
+  [Operation] [varchar](50) NULL,
+  [Count] [int] NULL,
+  [FirstCaptureTime] [datetime] NOT NULL,
+  [LastCaptureTime] [datetime] NULL,
+  [increment] [int] IDENTITY(1,1) NOT NULL,
+  CONSTRAINT [PK_Operation] PRIMARY KEY CLUSTERED
+  (
+  [increment] ASC
+  )WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+  ) ON [PRIMARY]
+
+  GO
+
+  SET ANSI_PADDING OFF
+  GO
+
+
+
+</Script>

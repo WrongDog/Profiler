@@ -1,0 +1,4 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapper\bin\Debug\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapper\bin\Debug\TraceWrapper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapper\obj\Debug\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapper\obj\Debug\TraceWrapper.pdb

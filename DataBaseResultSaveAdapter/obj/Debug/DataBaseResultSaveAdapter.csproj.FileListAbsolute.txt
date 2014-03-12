@@ -1,0 +1,9 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DataBaseResultSaveAdapter\obj\Debug\DataBaseResultSaveAdapter.csprojResolveAssemblyReference.cache
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DataBaseResultSaveAdapter\bin\Debug\DataBaseResultSaveAdapter.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DataBaseResultSaveAdapter\bin\Debug\DataBaseResultSaveAdapter.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DataBaseResultSaveAdapter\bin\Debug\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DataBaseResultSaveAdapter\bin\Debug\TraceWrapper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DataBaseResultSaveAdapter\obj\Debug\DataBaseResultSaveAdapter.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DataBaseResultSaveAdapter\obj\Debug\DataBaseResultSaveAdapter.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DataBaseResultSaveAdapter\bin\Debug\DBengine.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DataBaseResultSaveAdapter\bin\Debug\DBengine.pdb

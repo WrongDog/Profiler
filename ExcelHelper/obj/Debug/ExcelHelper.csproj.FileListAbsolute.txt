@@ -1,0 +1,4 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\ExcelHelper\bin\Debug\ExcelHelper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\ExcelHelper\bin\Debug\ExcelHelper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\ExcelHelper\obj\Debug\ExcelHelper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\ExcelHelper\obj\Debug\ExcelHelper.pdb

@@ -1,0 +1,9 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TestConsoleApplication1\obj\x86\Debug\TestConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TestConsoleApplication1\bin\Debug\TestConsoleApplication1.exe
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TestConsoleApplication1\bin\Debug\TestConsoleApplication1.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TestConsoleApplication1\bin\Debug\AverageDurationHandler.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TestConsoleApplication1\bin\Debug\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TestConsoleApplication1\bin\Debug\AverageDurationHandler.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TestConsoleApplication1\bin\Debug\TraceWrapper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TestConsoleApplication1\obj\x86\Debug\TestConsoleApplication1.exe
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TestConsoleApplication1\obj\x86\Debug\TestConsoleApplication1.pdb

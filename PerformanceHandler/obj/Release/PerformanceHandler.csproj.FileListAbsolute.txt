@@ -1,0 +1,7 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\PerformanceHandler\bin\Release\PerformanceHandler.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\PerformanceHandler\bin\Release\PerformanceHandler.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\PerformanceHandler\bin\Release\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\PerformanceHandler\bin\Release\TraceWrapper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\PerformanceHandler\obj\Release\PerformanceHandler.csprojResolveAssemblyReference.cache
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\PerformanceHandler\obj\Release\PerformanceHandler.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\PerformanceHandler\obj\Release\PerformanceHandler.pdb

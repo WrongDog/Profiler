@@ -1,0 +1,7 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkHandler\bin\Debug\BenchmarkHandler.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkHandler\bin\Debug\BenchmarkHandler.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkHandler\bin\Debug\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkHandler\bin\Debug\TraceWrapper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkHandler\obj\Debug\BenchmarkHandler.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkHandler\obj\Debug\BenchmarkHandler.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\BenchmarkHandler\obj\Debug\BenchmarkHandler.csprojResolveAssemblyReference.cache

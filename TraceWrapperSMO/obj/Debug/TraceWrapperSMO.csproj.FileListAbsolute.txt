@@ -1,0 +1,7 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSMO\obj\Debug\TraceWrapperSMO.csprojResolveAssemblyReference.cache
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSMO\bin\Debug\TraceWrapperSMO.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSMO\bin\Debug\TraceWrapperSMO.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSMO\bin\Debug\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSMO\bin\Debug\TraceWrapper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSMO\obj\Debug\TraceWrapperSMO.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\TraceWrapperSMO\obj\Debug\TraceWrapperSMO.pdb

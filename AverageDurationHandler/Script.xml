@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Script>
+
+
+  /****** Object:  Table [dbo].[AverageDuration]    Script Date: 08/14/2013 12:25:34 ******/
+  IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[AverageDuration]') AND type in (N'U'))
+  DROP TABLE [dbo].[AverageDuration]
+  GO
+
+
+
+  /****** Object:  Table [dbo].[AverageDuration]    Script Date: 08/14/2013 12:25:34 ******/
+  SET ANSI_NULLS ON
+  GO
+
+  SET QUOTED_IDENTIFIER ON
+  GO
+
+  SET ANSI_PADDING ON
+  GO
+
+  CREATE TABLE [dbo].[AverageDuration](
+  [TextData] [varchar](max) NULL,
+  [Count] [int] NULL,
+  [AverageDuration] [int] NULL,
+  [MinDuration] [int] NULL,
+  [MaxDuration] [int] NULL,
+  [FirstCaptureTime] [datetime] NULL,
+  [LastCaptureTime] [datetime] NULL,
+  [LastDuration] [int] NULL,
+  [AverageReads] [int] NULL,
+  [MinReads] [int] NULL,
+  [MaxReads] [int] NULL,
+  [AverageWrites] [int] NULL,
+  [MinWrites] [int] NULL,
+  [MaxWrites] [int] NULL,
+  [AverageCPU] [int] NULL,
+  [MinCPU] [int] NULL,
+  [MaxCPU] [int] NULL,
+  [increment] [int] IDENTITY(1,1) NOT NULL
+  ) ON [PRIMARY]
+
+  GO
+
+  SET ANSI_PADDING OFF
+  GO
+
+
+
+
+</Script>

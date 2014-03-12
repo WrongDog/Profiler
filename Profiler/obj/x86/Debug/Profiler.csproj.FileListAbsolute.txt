@@ -1,0 +1,12 @@
+c:\users\youy\documents\visual studio 2010\Projects\Profiler\Profiler\bin\Debug\Profiler.exe
+c:\users\youy\documents\visual studio 2010\Projects\Profiler\Profiler\bin\Debug\Profiler.pdb
+c:\users\youy\documents\visual studio 2010\Projects\Profiler\Profiler\obj\x86\Debug\Profiler.csprojResolveAssemblyReference.cache
+c:\users\youy\documents\visual studio 2010\Projects\Profiler\Profiler\obj\x86\Debug\Profiler.Properties.Resources.resources
+c:\users\youy\documents\visual studio 2010\Projects\Profiler\Profiler\obj\x86\Debug\Profiler.csproj.GenerateResource.Cache
+c:\users\youy\documents\visual studio 2010\Projects\Profiler\Profiler\obj\x86\Debug\Profiler.exe
+c:\users\youy\documents\visual studio 2010\Projects\Profiler\Profiler\obj\x86\Debug\Profiler.pdb
+c:\users\youy\documents\visual studio 2010\Projects\Profiler\Profiler\bin\Debug\App.config
+c:\users\youy\documents\visual studio 2010\Projects\Profiler\Profiler\bin\Debug\Profiler.exe.config
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\bin\Debug\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\bin\Debug\TraceWrapper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\obj\x86\Debug\Profiler.Profiler.resources

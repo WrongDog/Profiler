@@ -1,0 +1,7 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\AverageDurationHandler\bin\Debug\AverageDurationHandler.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\AverageDurationHandler\bin\Debug\AverageDurationHandler.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\AverageDurationHandler\bin\Debug\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\AverageDurationHandler\bin\Debug\TraceWrapper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\AverageDurationHandler\obj\Debug\AverageDurationHandler.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\AverageDurationHandler\obj\Debug\AverageDurationHandler.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\AverageDurationHandler\obj\Debug\AverageDurationHandler.csprojResolveAssemblyReference.cache

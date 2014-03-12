@@ -1,0 +1,7 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DeadlockHandler\bin\Debug\DeadlockHandler.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DeadlockHandler\bin\Debug\DeadlockHandler.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DeadlockHandler\bin\Debug\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DeadlockHandler\bin\Debug\TraceWrapper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DeadlockHandler\obj\Debug\DeadlockHandler.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DeadlockHandler\obj\Debug\DeadlockHandler.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DeadlockHandler\obj\Debug\DeadlockHandler.csprojResolveAssemblyReference.cache

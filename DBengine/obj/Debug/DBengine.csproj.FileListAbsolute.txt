@@ -1,0 +1,4 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DBengine\bin\Debug\DBengine.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DBengine\bin\Debug\DBengine.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DBengine\obj\Debug\DBengine.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\DBengine\obj\Debug\DBengine.pdb

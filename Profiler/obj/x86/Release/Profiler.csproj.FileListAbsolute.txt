@@ -1,0 +1,12 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\bin\Release\Profiler.exe.config
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\bin\Release\App.config
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\bin\Release\Profiler.exe
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\bin\Release\Profiler.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\bin\Release\TraceWrapper.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\bin\Release\TraceWrapper.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\obj\x86\Release\Profiler.csprojResolveAssemblyReference.cache
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\obj\x86\Release\Profiler.Profiler.resources
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\obj\x86\Release\Profiler.Properties.Resources.resources
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\obj\x86\Release\Profiler.csproj.GenerateResource.Cache
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\obj\x86\Release\Profiler.exe
+C:\Users\youy\Documents\Visual Studio 2010\Projects\Profiler\Profiler\obj\x86\Release\Profiler.pdb
